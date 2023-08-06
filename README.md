@@ -1,0 +1,2 @@
+# EmailSpamClassification
+This is an Email/SMS spam detection system. It classifies messages of your mails or SMS as spam or not spam. The dataset to be used is a public text data (available on Kaggle) which consists of two columns including text (email) and spam (label). Various functions are to be performed on the text or emails like extracting the data, loading ,transforming , analysing and transforming the data. Transforming the data involves cleaning and processing the data.
